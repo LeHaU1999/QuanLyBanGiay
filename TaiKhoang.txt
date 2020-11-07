@@ -1,0 +1,5 @@
+user	pass	role
+
+admin	admin	admin	
+manager	manager	manager	
+user	user	user
